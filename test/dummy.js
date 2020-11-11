@@ -1,6 +1,6 @@
 'use strict'
 
-let test = require('tape')
+const test = require('tape')
 
 test('TODO: tests', (t) => {
   t.end()
